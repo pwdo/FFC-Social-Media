@@ -1,6 +1,10 @@
-# FFC-Social-Media 
+<img src="https://github.com/pwdo/FFC-Social-Media/blob/master/ffclogo-dark.png?raw=true" alt="FFC logo" width="400">
 
-Social media graphics for the **Form Function & Class conference**. Here are some useful links: 
+Brand & social graphics for the [**Form Function & Class conference**](http://formfunctionclass.com). 
+
+**This logo shall be used only with the express permission of the organization. It should not be used to misrepresent FFC or the [Philippine Web Designers Organization](http://pwdo.org) in any way. If using this logo, please [get in touch](mailto:info@pwdo.org?subject=FFC%20Logo) with us.**
+
+Here are some useful links: 
 
 ## Website 
 - [formfunctionclass.com](http://formfunctionclass.com) 
