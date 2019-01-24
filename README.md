@@ -4,6 +4,14 @@ Brand & social graphics for the [**Form Function & Class conference**](http://fo
 
 **This logo shall be used only with the express permission of the organization. It should not be used to misrepresent FFC or the [Philippine Web Designers Organization](http://pwdo.org) in any way. If using this logo, please [get in touch](mailto:info@pwdo.org?subject=FFC%20Logo) with us.**
 
+---
+
+## Name and Writing Guide
+
+Please take note of how we write our org and event names with the help of our [Writing Guide](https://medium.com/@PWDO/writing-style-guide-547960f15ef4)
+
+---
+
 Here are some useful links: 
 
 ## Website 
@@ -11,9 +19,6 @@ Here are some useful links:
 
 ## Hashtag
 - #ffcph 
-
-## Blog
-- [blog.pwdo.org](http://blog.pwdo.org)
 
 ## Twitter
 - [@pwdo](http://twitter.com/pwdo) 
